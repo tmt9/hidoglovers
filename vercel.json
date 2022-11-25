@@ -1,5 +1,8 @@
 {
     "redirects": [
         { "source": "/", "destination": "https://www.hidoglovers.com/" }
-    ]
+    ],
+    "rewrites": [
+    {"source": "/:match*", "destination": "https://www.hidoglovers.com/:match*"},
+  ]
 }
