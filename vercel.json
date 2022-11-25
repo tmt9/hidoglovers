@@ -1,6 +1,6 @@
 {
     "redirects": [
         { "source": "/", "destination": "https://www.hidoglovers.com/" },
-        { source: '/:path*', destination: 'https://www.hidoglovers.com/:path*'}
+        { "source": '/:path*', "destination": 'https://www.hidoglovers.com/:path*'}
     ]
 }
